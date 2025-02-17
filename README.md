@@ -1,7 +1,7 @@
 # ZOMATO_data_python_EDA and Power Bi Dashboard.
 dataset- https://github.com/SagarShyamal1999/ZOMATO_data_python_EDA/blob/main/zomato_dataset.csv
 # python_EDA_and_Observation-
-https://github.com/SagarShyamal1999/ZOMATO_data_python_EDA/blob/main/zomato_EDA_final.ipynb
+https://github.com/SagarShyamal1999/ZOMATO_data_analysis/blob/main/zomato_EDA_final.ipynb
 # Power_BI DashBoard--
 Dashboard-https://github.com/SagarShyamal1999/ZOMATO_data_python_EDA/blob/main/final_zomato%20for%20exam.pbix
 ## Dashboard image-
