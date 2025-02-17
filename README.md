@@ -10,3 +10,6 @@ page2=https://github.com/SagarShyamal1999/ZOMATO_data_python_EDA/blob/main/z2.pn
 page3=https://github.com/SagarShyamal1999/ZOMATO_data_python_EDA/blob/main/z3.png
 page4=https://github.com/SagarShyamal1999/ZOMATO_data_python_EDA/blob/main/z4.png
 page5=https://github.com/SagarShyamal1999/ZOMATO_data_python_EDA/blob/main/z5.png
+
+dashboard video-
+google drive link-https://drive.google.com/file/d/1ycqtrJtIGDkD8YxzD1awZIRaWkgjuiVO/view?usp=sharing
