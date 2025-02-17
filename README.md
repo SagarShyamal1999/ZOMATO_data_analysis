@@ -12,5 +12,5 @@ page4=https://github.com/SagarShyamal1999/ZOMATO_data_python_EDA/blob/main/z4.pn
 page5=https://github.com/SagarShyamal1999/ZOMATO_data_python_EDA/blob/main/z5.png
 
 # dashboard video-
-google drive link-https://drive.google.com/file/d/1ycqtrJtIGDkD8YxzD1awZIRaWkgjuiVO/view?usp=sharing
-github video link-https://github.com/SagarShyamal1999/ZOMATO_data_analysis/blob/main/zomato.mp4
+* google drive link-https://drive.google.com/file/d/1ycqtrJtIGDkD8YxzD1awZIRaWkgjuiVO/view?usp=sharing
+* github video link-https://github.com/SagarShyamal1999/ZOMATO_data_analysis/blob/main/zomato.mp4
